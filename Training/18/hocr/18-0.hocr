@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\18\denoise\18-0.png"; bbox 0 0 1657 1289; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1241 151 1557 197">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1241 151 1557 197">
+     <span class='ocr_line' id='line_1_1' title="bbox 1241 151 1557 197; baseline 0 -16; x_size 35.372093; x_descenders 5.3720932; x_ascenders 9"><span class='ocrx_word' id='word_1_1' title='bbox 1241 151 1557 197; x_wconf 84'><em>MinebeaMitsumi</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1289 187 1517 200">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 1289 187 1517 200">
+     <span class='ocr_line' id='line_1_2' title="bbox 1289 187 1517 200; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_2' title='bbox 1289 187 1344 197; x_wconf 70'><em>more</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1344 187 1410 197; x_wconf 72'><em>“mlvl</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1414 187 1443 197; x_wconf 65'><em>chm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1436 187 1517 200; x_wconf 72'><em>auighnﬂer</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1157 501 1341 510">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1157 501 1341 510">
+     <span class='ocr_line' id='line_1_3' title="bbox 1157 501 1341 510; baseline 0 779; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_6' title='bbox 1157 501 1341 510; x_wconf 95'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1349 1017 1530 1048">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 1349 1017 1530 1048">
+     <span class='ocr_line' id='line_1_4' title="bbox 1349 1017 1530 1029; baseline 0 0; x_size 16; x_descenders 4; x_ascenders 4"><span class='ocrx_word' id='word_1_7' title='bbox 1349 1017 1422 1029; x_wconf 84'><em>MINEBEA</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1428 1017 1498 1029; x_wconf 85'><em>MITSUMI</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1505 1017 1530 1029; x_wconf 81'><em>Inc.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1387 1038 1491 1048; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_10' title='bbox 1387 1039 1440 1048; x_wconf 73'>ANNUAL</span> <span class='ocrx_word' id='word_1_11' title='bbox 1444 1038 1491 1048; x_wconf 76'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1371 1118 1506 1127">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 1371 1118 1506 1127">
+     <span class='ocr_line' id='line_1_6' title="bbox 1371 1118 1506 1127; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_12' title='bbox 1371 1119 1392 1127; x_wconf 61'><em>Yew</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1397 1118 1425 1127; x_wconf 69'><em>vaded</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1430 1118 1459 1127; x_wconf 66'><em>Harm</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1463 1119 1473 1127; x_wconf 62'><em>3!</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1482 1119 1498 1127; x_wconf 76'><em>2m</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1502 1119 1506 1127; x_wconf 54'><em>1</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\24\denoise\24-4.png"; bbox 0 0 1657 2188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 64 441 79">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 134 64 441 79">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 64 441 79; baseline 0 0; x_size 20.518518; x_descenders 5.1296296; x_ascenders 5.1296296"><span class='ocrx_word' id='word_1_1' title='bbox 134 64 287 79; x_wconf 74'>INTRODUCTION</span> <span class='ocrx_word' id='word_1_2' title='bbox 302 72 312 73; x_wconf 35'><em>7</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 326 64 441 79; x_wconf 82'>20l7Review</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 128 1560 2090">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 128 1560 2090">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 128 1560 2090; baseline 0 0; x_size 981; x_descenders -490.5; x_ascenders 490.5"><span class='ocrx_word' id='word_1_4' title='bbox 0 128 1560 2090; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

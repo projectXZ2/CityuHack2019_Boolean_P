@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\62\denoise\62-0.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 854 1217 941">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 471 854 1217 941">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 854 1217 941; baseline 0.001 -1; x_size 26.666666; x_descenders 6.6666665; x_ascenders 6.6666665"><span class='ocrx_word' id='word_1_1' title='bbox 471 855 781 941; x_wconf 51'>cmlCHﬁli-i</span> <span class='ocrx_word' id='word_1_2' title='bbox 786 854 1217 941; x_wconf 45'>ﬁlgllﬁ-‘EﬁTIIZEI-EIEED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 578 1027 1110 1087">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 578 1027 1110 1087">
+     <span class='ocr_line' id='line_1_2' title="bbox 578 1027 1110 1087; baseline 0 -1; x_size 76.727272; x_descenders 19.181818; x_ascenders 19.181818"><span class='ocrx_word' id='word_1_3' title='bbox 578 1029 834 1087; x_wconf 91'>ANNUAL</span> <span class='ocrx_word' id='word_1_4' title='bbox 861 1027 1110 1087; x_wconf 87'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 142 361 1512 1768">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 142 361 1512 1768">
+     <span class='ocr_line' id='line_1_3' title="bbox 142 361 1512 1768; baseline 0 0; x_size 703.5; x_descenders -351.75; x_ascenders 351.75"><span class='ocrx_word' id='word_1_5' title='bbox 142 361 1512 1768; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

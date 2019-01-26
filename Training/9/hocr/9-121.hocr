@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\9\denoise\9-121.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 565 2202 1087 2228">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 565 2202 1087 2228">
+     <span class='ocr_line' id='line_1_1' title="bbox 565 2202 1087 2228; baseline -0.002 -5; x_size 26; x_descenders 5; x_ascenders 6"><span class='ocrx_word' id='word_1_1' title='bbox 565 2202 613 2223; x_wconf 86'><em>This</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 622 2208 683 2228; x_wconf 87'><em>page</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 693 2203 735 2223; x_wconf 84'><em>has</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 745 2203 805 2223; x_wconf 89'><em>been</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 815 2202 963 2228; x_wconf 81'><em>intentionally</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 971 2202 1009 2223; x_wconf 83'><em>left</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1017 2203 1087 2223; x_wconf 81'><em>blank.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\24\denoise\24-121.png"; bbox 0 0 1657 2188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 104 63 504 79">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 104 63 504 79">
+     <span class='ocr_line' id='line_1_1' title="bbox 104 63 504 79; baseline 0 0; x_size 20.692308; x_descenders 5.1730771; x_ascenders 5.1730771"><span class='ocrx_word' id='word_1_1' title='bbox 104 64 241 79; x_wconf 83'>KRISENERGY</span> <span class='ocrx_word' id='word_1_2' title='bbox 260 64 262 79; x_wconf 99'><em>|</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 281 63 323 79; x_wconf 79'>2017</span> <span class='ocrx_word' id='word_1_4' title='bbox 333 64 415 79; x_wconf 82'>ANNUAL</span> <span class='ocrx_word' id='word_1_5' title='bbox 425 64 504 79; x_wconf 82'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 104 2114 138 2129">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 104 2114 138 2129">
+     <span class='ocr_line' id='line_1_2' title="bbox 104 2114 138 2129; baseline 0 0; x_size 20.333334; x_descenders 5.0833335; x_ascenders 5.0833335"><span class='ocrx_word' id='word_1_6' title='bbox 104 2114 138 2129; x_wconf 86'>122</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

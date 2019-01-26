@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\6\denoise\6-103.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 79 1853 767 2260">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 79 1853 767 2260">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 1853 581 1977; baseline 0 0; x_size 143.78723; x_descenders 19.787233; x_ascenders 47.489361"><span class='ocrx_word' id='word_1_1' title='bbox 316 1959 334 1977; x_wconf 95'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 545 1853 581 1977; x_wconf 62'>’E</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 229 1980 580 2050; baseline 0 -2; x_size 77.69149; x_descenders 10.691489; x_ascenders 25.659575"><span class='ocrx_word' id='word_1_3' title='bbox 229 1980 580 2050; x_wconf 79'>‘I&#39;Imal</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 79 2088 767 2260; baseline 0.001 -80; x_size 106; x_descenders 14; x_ascenders 35"><span class='ocrx_word' id='word_1_4' title='bbox 79 2123 175 2260; x_wconf 52'>L1</span> <span class='ocrx_word' id='word_1_5' title='bbox 259 2088 442 2180; x_wconf 88'>bal</span> <span class='ocrx_word' id='word_1_6' title='bbox 495 2095 767 2181; x_wconf 53'>&#39;wnc</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 74 168 1580 2266">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 74 168 1580 2266">
+     <span class='ocr_line' id='line_1_4' title="bbox 74 168 1580 2266; baseline 0 0; x_size 1049; x_descenders -524.5; x_ascenders 524.5"><span class='ocrx_word' id='word_1_7' title='bbox 74 168 1580 2266; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

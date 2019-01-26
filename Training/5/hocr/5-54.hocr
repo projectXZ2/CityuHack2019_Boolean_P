@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\5\denoise\5-54.png"; bbox 0 0 1657 2299; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1012 164 1366 213">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1012 164 1366 213">
+     <span class='ocr_line' id='line_1_1' title="bbox 1043 164 1366 186; baseline 0 -5; x_size 22; x_descenders 5; x_ascenders 4"><span class='ocrx_word' id='word_1_1' title='bbox 1043 164 1169 182; x_wconf 83'>Transurban</span> <span class='ocrx_word' id='word_1_2' title='bbox 1178 164 1276 186; x_wconf 83'>Holdings</span> <span class='ocrx_word' id='word_1_3' title='bbox 1285 164 1366 182; x_wconf 79'>Limited</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1012 191 1366 213; baseline 0 -5; x_size 21; x_descenders 4; x_ascenders 4"><span class='ocrx_word' id='word_1_4' title='bbox 1012 191 1044 209; x_wconf 85'>for</span> <span class='ocrx_word' id='word_1_5' title='bbox 1050 191 1084 209; x_wconf 77'>the</span> <span class='ocrx_word' id='word_1_6' title='bbox 1092 195 1140 213; x_wconf 87'>year</span> <span class='ocrx_word' id='word_1_7' title='bbox 1146 191 1214 209; x_wconf 83'>ended</span> <span class='ocrx_word' id='word_1_8' title='bbox 1222 191 1246 209; x_wconf 87'>30</span> <span class='ocrx_word' id='word_1_9' title='bbox 1254 191 1308 208; x_wconf 81'>June</span> <span class='ocrx_word' id='word_1_10' title='bbox 1315 191 1366 209; x_wconf 88'>2011</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 190 280 1118 318">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 190 280 1118 318">
+     <span class='ocr_line' id='line_1_3' title="bbox 190 280 1118 318; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9"><span class='ocrx_word' id='word_1_11' title='bbox 190 280 323 311; x_wconf 86'>Section</span> <span class='ocrx_word' id='word_1_12' title='bbox 341 281 373 310; x_wconf 94'>B:</span> <span class='ocrx_word' id='word_1_13' title='bbox 392 281 495 311; x_wconf 87'>Notes</span> <span class='ocrx_word' id='word_1_14' title='bbox 510 282 542 311; x_wconf 91'>to</span> <span class='ocrx_word' id='word_1_15' title='bbox 556 281 611 311; x_wconf 89'>the</span> <span class='ocrx_word' id='word_1_16' title='bbox 627 280 739 318; x_wconf 91'>Group</span> <span class='ocrx_word' id='word_1_17' title='bbox 753 280 902 311; x_wconf 88'>financial</span> <span class='ocrx_word' id='word_1_18' title='bbox 918 282 1118 311; x_wconf 84'>statements</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 188 2117 1367 2139">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 188 2117 1367 2139">
+     <span class='ocr_line' id='line_1_4' title="bbox 188 2117 1367 2139; baseline 0 -5; x_size 22; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_19' title='bbox 188 2118 210 2134; x_wconf 86'>52</span> <span class='ocrx_word' id='word_1_20' title='bbox 1056 2118 1101 2134; x_wconf 86'>2017</span> <span class='ocrx_word' id='word_1_21' title='bbox 1106 2117 1220 2134; x_wconf 89'>Transurban</span> <span class='ocrx_word' id='word_1_22' title='bbox 1226 2117 1294 2134; x_wconf 88'>Annual</span> <span class='ocrx_word' id='word_1_23' title='bbox 1302 2118 1367 2139; x_wconf 81'>Report</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

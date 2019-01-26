@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\8\denoise\8-115.png"; bbox 0 0 1657 1203; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1457 998 1544 1092">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1457 998 1544 1092">
+     <span class='ocr_line' id='line_1_1' title="bbox 1457 998 1544 1092; baseline 0.011 -1; x_size 103.83334; x_descenders 10.833333; x_ascenders 28"><span class='ocrx_word' id='word_1_1' title='bbox 1457 998 1544 1092; x_wconf 85'>ia</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 964 992 1455 1093">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 964 992 1455 1093">
+     <span class='ocr_line' id='line_1_2' title="bbox 964 992 1455 1093; baseline 0 -1; x_size 115.38346; x_descenders 15.383459; x_ascenders 34"><span class='ocrx_word' id='word_1_2' title='bbox 964 992 1455 1093; x_wconf 71'>‘Columb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 896 985 986 1105">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 896 985 986 1105">
+     <span class='ocr_line' id='line_1_3' title="bbox 915 985 969 1040; baseline 0 0; x_size 66.712967; x_descenders 11.712963; x_ascenders 18.333334"><span class='ocrx_word' id='word_1_3' title='bbox 915 985 969 1040; x_wconf 69'>’I</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 896 1034 986 1105; baseline 0 0; x_size 131; x_descenders 23; x_ascenders 36"><span class='ocrx_word' id='word_1_4' title='bbox 896 1034 986 1105; x_wconf 48'><em>0</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 863 994 877 1007">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 863 994 877 1007">
+     <span class='ocr_line' id='line_1_5' title="bbox 863 994 877 1007; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_5' title='bbox 863 994 877 1007; x_wconf 53'>C</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 868 813 935 1090">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 868 813 935 1090">
+     <span class='ocr_line' id='line_1_6' title="bbox 868 813 935 1090; baseline 138.5 -1800.5; x_size 25; x_descenders 7; x_ascenders 4"><span class='ocrx_word' id='word_1_6' title='bbox 868 813 897 879; x_wconf 51'>7f‘</span> <span class='ocrx_word' id='word_1_7' title='bbox 876 889 933 953; x_wconf 40'><em>g</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 888 962 914 985; x_wconf 43'>V</span> <span class='ocrx_word' id='word_1_9' title='bbox 881 1002 935 1090; x_wconf 42'>“Y?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 735 1071 743 1081">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 735 1071 743 1081">
+     <span class='ocr_line' id='line_1_7' title="bbox 735 1071 743 1081; baseline 0 -8; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_10' title='bbox 735 1071 743 1081; x_wconf 72'><em>r</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1657 1203">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 0 0 1657 1203">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1657 1203; x_size 828.5; x_descenders -414.25; x_ascenders 414.25"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1657 1203; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

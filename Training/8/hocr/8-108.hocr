@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\8\denoise\8-108.png"; bbox 0 0 1657 1203; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 723 46 1608 1158">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 723 46 1608 1158">
+     <span class='ocr_line' id='line_1_1' title="bbox 723 46 1608 1158; x_size 442.5; x_descenders -221.25; x_ascenders 221.25"><span class='ocrx_word' id='word_1_1' title='bbox 723 46 1608 1158; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 141 137 687 218">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 141 137 687 218">
+     <span class='ocr_line' id='line_1_2' title="bbox 620 152 687 199; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_2' title='bbox 620 152 687 199; x_wconf 91'>n</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 535 153 608 199; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_3' title='bbox 535 153 608 199; x_wconf 80'>E</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 482 153 528 199; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_4' title='bbox 482 153 528 199; x_wconf 92'>r</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 396 153 468 218; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_5' title='bbox 396 153 468 218; x_wconf 85'>n_._</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 310 137 382 199; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_6' title='bbox 310 137 382 199; x_wconf 79'>d</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 224 152 296 199; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_7' title='bbox 224 152 296 199; x_wconf 79'>e</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 141 137 208 200; x_size 96.222221; x_descenders 24.055555; x_ascenders 24.055555"><span class='ocrx_word' id='word_1_8' title='bbox 141 137 208 200; x_wconf 99'>H</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

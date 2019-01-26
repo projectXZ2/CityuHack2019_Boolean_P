@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\4\denoise\4-0.png"; bbox 0 0 1657 1179; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 811 300 1096 308">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 811 300 1096 308">
+     <span class='ocr_line' id='line_1_1' title="bbox 811 300 1096 308; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_1' title='bbox 811 300 889 308; x_wconf 63'>”moan</span> <span class='ocrx_word' id='word_1_2' title='bbox 902 300 944 308; x_wconf 63'>mun</span> <span class='ocrx_word' id='word_1_3' title='bbox 957 300 1014 308; x_wconf 62'>caoup</span> <span class='ocrx_word' id='word_1_4' title='bbox 1027 300 1096 308; x_wconf 68'>uwvsn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 620 266 1624 914">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 620 266 1624 914">
+     <span class='ocr_line' id='line_1_2' title="bbox 620 266 1624 914; baseline 0 265; x_size 249.33333; x_descenders 62.333332; x_ascenders 62.333332"><span class='ocrx_word' id='word_1_5' title='bbox 620 266 1624 914; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

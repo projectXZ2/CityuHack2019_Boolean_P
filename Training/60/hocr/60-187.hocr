@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\60\denoise\60-187.png"; bbox 0 0 1657 2210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1105 1821 1152 1852">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1105 1821 1152 1852">
+     <span class='ocr_line' id='line_1_1' title="bbox 1105 1821 1152 1852; baseline 0 -3; x_size 38.666668; x_descenders 9.666667; x_ascenders 9.666667"><span class='ocrx_word' id='word_1_1' title='bbox 1105 1821 1152 1852; x_wconf 41'>3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 499 2086 1066 2136">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 499 2086 1066 2136">
+     <span class='ocr_line' id='line_1_2' title="bbox 499 2086 1066 2106; baseline 0 -5; x_size 20; x_descenders 5; x_ascenders 4"><span class='ocrx_word' id='word_1_2' title='bbox 499 2086 529 2102; x_wconf 77'>Rex</span> <span class='ocrx_word' id='word_1_3' title='bbox 536 2086 650 2102; x_wconf 54'>InternationaW</span> <span class='ocrx_word' id='word_1_4' title='bbox 658 2086 726 2106; x_wconf 59'>Homing</span> <span class='ocrx_word' id='word_1_5' title='bbox 733 2086 800 2102; x_wconf 73'>Limited</span> <span class='ocrx_word' id='word_1_6' title='bbox 816 2086 817 2101; x_wconf 66'>\</span> <span class='ocrx_word' id='word_1_7' title='bbox 833 2086 859 2102; x_wconf 72'>Co.</span> <span class='ocrx_word' id='word_1_8' title='bbox 866 2086 903 2106; x_wconf 74'>Reg.</span> <span class='ocrx_word' id='word_1_9' title='bbox 910 2086 937 2102; x_wconf 78'>No.</span> <span class='ocrx_word' id='word_1_10' title='bbox 944 2086 1066 2102; x_wconf 70'>201301242M</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 499 2116 1060 2136; baseline -0.002 -4; x_size 20; x_descenders 4; x_ascenders 4"><span class='ocrx_word' id='word_1_11' title='bbox 499 2116 505 2131; x_wconf 53'>1</span> <span class='ocrx_word' id='word_1_12' title='bbox 515 2116 579 2136; x_wconf 82'>George</span> <span class='ocrx_word' id='word_1_13' title='bbox 585 2116 640 2132; x_wconf 75'>Street</span> <span class='ocrx_word' id='word_1_14' title='bbox 647 2116 709 2132; x_wconf 67'>#14-01</span> <span class='ocrx_word' id='word_1_15' title='bbox 718 2116 800 2136; x_wconf 83'>Singapor</span> <span class='ocrx_word' id='word_1_16' title='bbox 817 2116 887 2132; x_wconf 67'>049145</span> <span class='ocrx_word' id='word_1_17' title='bbox 903 2116 905 2131; x_wconf 98'>I</span> <span class='ocrx_word' id='word_1_18' title='bbox 920 2116 1060 2132; x_wconf 80'>www.rexih.com</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 741 1657 2210">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 0 741 1657 2210">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 741 1657 2210; baseline 0 0; x_size 734.5; x_descenders -367.25; x_ascenders 367.25"><span class='ocrx_word' id='word_1_19' title='bbox 0 741 1657 2210; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

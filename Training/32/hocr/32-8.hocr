@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\32\denoise\32-8.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1010 2227 1340 2270">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1010 2227 1340 2270">
+     <span class='ocr_line' id='line_1_1' title="bbox 1010 2227 1340 2270; baseline 0 -3; x_size 45.392159; x_descenders 5.3921571; x_ascenders 15"><span class='ocrx_word' id='word_1_1' title='bbox 1010 2243 1143 2270; x_wconf 75'>VICPLAS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1157 2227 1340 2268; x_wconf 59'>INTERNATIE)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1344 2216 1470 2267">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 1344 2216 1470 2267">
+     <span class='ocr_line' id='line_1_2' title="bbox 1405 2216 1423 2235; baseline 0 0; x_size 25.333334; x_descenders 6.3333335; x_ascenders 6.3333335"><span class='ocrx_word' id='word_1_3' title='bbox 1405 2216 1423 2235; x_wconf 71'>O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1344 2243 1470 2267; baseline 0 0; x_size 32.555557; x_descenders 8.1388893; x_ascenders 8.1388893"><span class='ocrx_word' id='word_1_4' title='bbox 1344 2243 1405 2267; x_wconf 90'>NAL</span> <span class='ocrx_word' id='word_1_5' title='bbox 1417 2243 1470 2267; x_wconf 91'>LTD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1654 2242">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 0 0 1654 2242">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1654 2242; textangle 90; x_size 830; x_descenders -415; x_ascenders 415"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1654 2242; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

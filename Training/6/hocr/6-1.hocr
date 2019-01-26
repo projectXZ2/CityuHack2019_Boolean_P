@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\6\denoise\6-1.png"; bbox 0 0 87 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 28 867 57 1292">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 28 867 57 1292">
+     <span class='ocr_line' id='line_1_1' title="bbox 28 867 57 1292; x_size 28; x_descenders 6; x_ascenders 6"><span class='ocrx_word' id='word_1_1' title='bbox 34 867 57 919; x_wconf 59'>92:</span> <span class='ocrx_word' id='word_1_2' title='bbox 34 930 57 1071; x_wconf 54'>3832532</span> <span class='ocrx_word' id='word_1_3' title='bbox 34 1080 57 1155; x_wconf 55'>25:3</span> <span class='ocrx_word' id='word_1_4' title='bbox 28 1165 56 1236; x_wconf 57'>mmuo;</span> <span class='ocrx_word' id='word_1_5' title='bbox 34 1244 56 1292; x_wconf 45'>Bi</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

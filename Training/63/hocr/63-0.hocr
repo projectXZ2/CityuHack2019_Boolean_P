@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\63\denoise\63-0.png"; bbox 0 0 1653 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1011 85 1546 111">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1011 85 1546 111">
+     <span class='ocr_line' id='line_1_1' title="bbox 1011 85 1546 111; baseline 0.002 -6; x_size 27; x_descenders 6; x_ascenders 5"><span class='ocrx_word' id='word_1_1' title='bbox 1011 85 1137 111; x_wconf 87'>Company</span> <span class='ocrx_word' id='word_1_2' title='bbox 1146 85 1296 111; x_wconf 85'>registration</span> <span class='ocrx_word' id='word_1_3' title='bbox 1307 85 1414 106; x_wconf 87'>number:</span> <span class='ocrx_word' id='word_1_4' title='bbox 1425 85 1546 106; x_wconf 85'>09847538</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 531 706 1197 735">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 531 706 1197 735">
+     <span class='ocr_line' id='line_1_2' title="bbox 531 706 1197 735; baseline 0 -1; x_size 37.523811; x_descenders 9.3809528; x_ascenders 9.3809528"><span class='ocrx_word' id='word_1_5' title='bbox 531 706 803 735; x_wconf 91'>TECHNOLOGY</span> <span class='ocrx_word' id='word_1_6' title='bbox 817 706 1033 735; x_wconf 93'>ENHANCED</span> <span class='ocrx_word' id='word_1_7' title='bbox 1048 706 1110 735; x_wconf 93'>OIL</span> <span class='ocrx_word' id='word_1_8' title='bbox 1124 706 1197 735; x_wconf 95'>PLC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 721 1005 1009 1030">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 721 1005 1009 1030">
+     <span class='ocr_line' id='line_1_3' title="bbox 721 1005 1009 1030; baseline 0 0; x_size 33.333332; x_descenders 8.333333; x_ascenders 8.333333"><span class='ocrx_word' id='word_1_9' title='bbox 721 1006 860 1030; x_wconf 97'>ANNUAL</span> <span class='ocrx_word' id='word_1_10' title='bbox 873 1005 1009 1030; x_wconf 92'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 681 1095 1050 1179">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 681 1095 1050 1179">
+     <span class='ocr_line' id='line_1_4' title="bbox 681 1095 1050 1120; baseline 0 0; x_size 33.058823; x_descenders 8.2647057; x_ascenders 8.2647057"><span class='ocrx_word' id='word_1_11' title='bbox 681 1095 748 1120; x_wconf 92'>FOR</span> <span class='ocrx_word' id='word_1_12' title='bbox 758 1095 823 1120; x_wconf 93'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 835 1095 926 1120; x_wconf 95'>YEAR</span> <span class='ocrx_word' id='word_1_14' title='bbox 938 1095 1050 1120; x_wconf 96'>ENDED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 715 1154 1033 1179; baseline 0 -1; x_size 33.058823; x_descenders 8.2647057; x_ascenders 8.2647057"><span class='ocrx_word' id='word_1_15' title='bbox 715 1154 745 1179; x_wconf 90'>31</span> <span class='ocrx_word' id='word_1_16' title='bbox 763 1154 951 1179; x_wconf 91'>DECEMBER</span> <span class='ocrx_word' id='word_1_17' title='bbox 961 1154 1033 1179; x_wconf 91'>2017</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

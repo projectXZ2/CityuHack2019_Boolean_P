@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\14\denoise\14-17.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 584 1601 1398">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 40 584 1601 1398">
+     <span class='ocr_line' id='line_1_1' title="bbox 40 584 1601 1398; baseline 0 941; x_size 249.33333; x_descenders 62.333332; x_ascenders 62.333332"><span class='ocrx_word' id='word_1_1' title='bbox 40 584 1601 1398; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 410 1488 1252 1558">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 410 1488 1252 1558">
+     <span class='ocr_line' id='line_1_2' title="bbox 410 1488 1252 1558; baseline 0 -1; x_size 91.703705; x_descenders 22.925926; x_ascenders 22.925926"><span class='ocrx_word' id='word_1_2' title='bbox 410 1488 1034 1558; x_wconf 89'>POSITIONING</span> <span class='ocrx_word' id='word_1_3' title='bbox 1071 1488 1252 1557; x_wconf 91'>FOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 147 1593 1498 1829">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 147 1593 1498 1829">
+     <span class='ocr_line' id='line_1_3' title="bbox 147 1593 1498 1829; baseline -0.003 0; x_size 308; x_descenders 77; x_ascenders 77"><span class='ocrx_word' id='word_1_4' title='bbox 147 1593 1498 1829; x_wconf 87'>GROWTH</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

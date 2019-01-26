@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\1\denoise\1-0.png"; bbox 0 0 1657 1150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 909 83 1086 169">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 909 83 1086 169">
+     <span class='ocr_line' id='line_1_1' title="bbox 909 83 1086 169; baseline -0.017 0; x_size 111.33334; x_descenders 27.833334; x_ascenders 27.833334"><span class='ocrx_word' id='word_1_1' title='bbox 909 83 1086 169; x_wconf 61'>@</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 909 181 1580 210">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 909 181 1580 210">
+     <span class='ocr_line' id='line_1_2' title="bbox 909 181 1580 210; baseline 0 -16; x_size 17.333334; x_descenders 4.3333335; x_ascenders 4.3333335"><span class='ocrx_word' id='word_1_2' title='bbox 909 181 934 194; x_wconf 86'>VEO</span> <span class='ocrx_word' id='word_1_3' title='bbox 939 181 971 194; x_wconf 85'>HIAP</span> <span class='ocrx_word' id='word_1_4' title='bbox 976 181 1012 194; x_wconf 74'>SENS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1017 181 1070 194; x_wconf 88'>LIMITED</span> <span class='ocrx_word' id='word_1_6' title='bbox 1414 182 1485 195; x_wconf 83'>ANNUAL</span> <span class='ocrx_word' id='word_1_7' title='bbox 1492 182 1494 210; x_wconf 83'>I</span> <span class='ocrx_word' id='word_1_8' title='bbox 1500 184 1554 210; x_wconf 78'>201</span> <span class='ocrx_word' id='word_1_9' title='bbox 1563 185 1580 210; x_wconf 87'>7</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1415 198 1485 210">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1415 198 1485 210">
+     <span class='ocr_line' id='line_1_3' title="bbox 1415 198 1485 210; baseline 0 0; x_size 16; x_descenders 4; x_ascenders 4"><span class='ocrx_word' id='word_1_10' title='bbox 1415 198 1485 210; x_wconf 84'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 840 216 1584 1150">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 840 216 1584 1150">
+     <span class='ocr_line' id='line_1_4' title="bbox 840 216 1584 1150; baseline 0 0; x_size 1246.6666; x_descenders 311.66666; x_ascenders 311.66666"><span class='ocrx_word' id='word_1_11' title='bbox 840 216 1584 1150; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

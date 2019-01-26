@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\29\denoise\29-0.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1217 114 1542 212">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1217 114 1542 212">
+     <span class='ocr_line' id='line_1_1' title="bbox 1217 114 1542 212; baseline 0 2127; x_size 123.75; x_descenders 30.9375; x_ascenders 30.9375"><span class='ocrx_word' id='word_1_1' title='bbox 1217 114 1542 212; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 851 1536 1219">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 152 851 1536 1219">
+     <span class='ocr_line' id='line_1_2' title="bbox 152 851 1536 1219; baseline -0.003 -47; x_size 422.66666; x_descenders 105.66666; x_ascenders 105.66666"><span class='ocrx_word' id='word_1_2' title='bbox 152 851 714 1219; x_wconf 57'>§§§§§t</span> <span class='ocrx_word' id='word_1_3' title='bbox 770 858 950 1168; x_wconf 80'>2</span> <span class='ocrx_word' id='word_1_4' title='bbox 970 858 1536 1172; x_wconf 60'>017</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 157 1275 573 1318">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 157 1275 573 1318">
+     <span class='ocr_line' id='line_1_3' title="bbox 157 1275 573 1318; baseline -0.01 -7; x_size 46; x_descenders 10; x_ascenders 15"><span class='ocrx_word' id='word_1_5' title='bbox 157 1275 225 1311; x_wconf 85'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 243 1279 307 1318; x_wconf 94'>July</span> <span class='ocrx_word' id='word_1_7' title='bbox 315 1280 488 1308; x_wconf 89'>2016—June</span> <span class='ocrx_word' id='word_1_8' title='bbox 499 1281 573 1308; x_wconf 89'>2017</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 158 2199 1133 2228">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 158 2199 1133 2228">
+     <span class='ocr_line' id='line_1_4' title="bbox 158 2199 1133 2228; baseline 0 -7; x_size 29; x_descenders 7; x_ascenders 6"><span class='ocrx_word' id='word_1_9' title='bbox 158 2199 282 2228; x_wconf 88'>Singapore</span> <span class='ocrx_word' id='word_1_10' title='bbox 299 2205 308 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_11' title='bbox 327 2199 409 2228; x_wconf 86'>Beijing</span> <span class='ocrx_word' id='word_1_12' title='bbox 425 2205 435 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_13' title='bbox 453 2200 516 2228; x_wconf 89'>Hong</span> <span class='ocrx_word' id='word_1_14' title='bbox 525 2200 585 2228; x_wconf 89'>Kong</span> <span class='ocrx_word' id='word_1_15' title='bbox 602 2205 611 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_16' title='bbox 629 2199 719 2221; x_wconf 89'>London</span> <span class='ocrx_word' id='word_1_17' title='bbox 736 2205 746 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_18' title='bbox 764 2199 861 2221; x_wconf 91'>Mumbai</span> <span class='ocrx_word' id='word_1_19' title='bbox 879 2205 888 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_20' title='bbox 905 2199 1017 2228; x_wconf 87'>Shanghai</span> <span class='ocrx_word' id='word_1_21' title='bbox 1035 2205 1045 2215; x_wconf 99'>I</span> <span class='ocrx_word' id='word_1_22' title='bbox 1061 2199 1133 2228; x_wconf 91'>Tokyo</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

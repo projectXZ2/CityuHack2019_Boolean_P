@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\23\denoise\23-208.png"; bbox 0 0 1657 2249; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 156 926 192">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 158 156 926 192">
+     <span class='ocr_line' id='line_1_1' title="bbox 158 156 926 192; baseline -0.001 -1; x_size 47.025642; x_descenders 11.756411; x_ascenders 11.756411"><span class='ocrx_word' id='word_1_1' title='bbox 158 156 314 192; x_wconf 94'>TERMS</span> <span class='ocrx_word' id='word_1_2' title='bbox 331 156 436 191; x_wconf 94'>AND</span> <span class='ocrx_word' id='word_1_3' title='bbox 455 156 735 192; x_wconf 91'>GLOSSARIES</span> <span class='ocrx_word' id='word_1_4' title='bbox 753 160 926 190; x_wconf 86'>(continued)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 400 1300 426">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 161 400 1300 426">
+     <span class='ocr_line' id='line_1_2' title="bbox 161 400 1300 426; baseline 0.003 -4; x_size 27; x_descenders 4; x_ascenders 9"><span class='ocrx_word' id='word_1_5' title='bbox 161 403 244 422; x_wconf 89'>Zhuhai</span> <span class='ocrx_word' id='word_1_6' title='bbox 255 402 362 422; x_wconf 86'>Software”</span> <span class='ocrx_word' id='word_1_7' title='bbox 632 402 703 422; x_wconf 86'>Zhuhai</span> <span class='ocrx_word' id='word_1_8' title='bbox 715 402 803 426; x_wconf 81'>Kingsoft</span> <span class='ocrx_word' id='word_1_9' title='bbox 813 402 908 422; x_wconf 87'>Software</span> <span class='ocrx_word' id='word_1_10' title='bbox 918 403 960 424; x_wconf 91'>C0.,</span> <span class='ocrx_word' id='word_1_11' title='bbox 972 402 1023 422; x_wconf 87'>Ltd.*</span> <span class='ocrx_word' id='word_1_12' title='bbox 1034 400 1300 425; x_wconf 40'>(ﬁﬁﬁlﬂﬁiﬁﬁl‘ﬁﬁa)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 161 470 721 494">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 161 470 721 494">
+     <span class='ocr_line' id='line_1_3' title="bbox 161 470 721 494; baseline 0 -5; x_size 24; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_13' title='bbox 161 470 194 489; x_wconf 89'>%</span> <span class='ocrx_word' id='word_1_14' title='bbox 200 471 208 477; x_wconf 93'>”</span> <span class='ocrx_word' id='word_1_15' title='bbox 633 475 666 494; x_wconf 88'>per</span> <span class='ocrx_word' id='word_1_16' title='bbox 676 472 721 489; x_wconf 82'>cent</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 60 2163 308 2187">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 60 2163 308 2187">
+     <span class='ocr_line' id='line_1_4' title="bbox 60 2163 308 2187; baseline 0.004 -2; x_size 26.555555; x_descenders 6.6388888; x_ascenders 6.6388888"><span class='ocrx_word' id='word_1_17' title='bbox 60 2165 98 2185; x_wconf 87'>208</span> <span class='ocrx_word' id='word_1_18' title='bbox 157 2163 308 2187; x_wconf 67'>EKINGSOFT&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\31\denoise\31-0.png"; bbox 0 0 1657 1153; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1145 153 1364 251">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1145 153 1364 251">
+     <span class='ocr_line' id='line_1_1' title="bbox 1145 153 1364 192; baseline 0 -1; x_size 52; x_descenders 13; x_ascenders 13"><span class='ocrx_word' id='word_1_1' title='bbox 1145 153 1364 192; x_wconf 94'>ANNUAL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1148 211 1364 251; baseline 0 0; x_size 52; x_descenders 13; x_ascenders 13"><span class='ocrx_word' id='word_1_2' title='bbox 1148 211 1364 251; x_wconf 85'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1146 272 1363 311">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 1146 272 1363 311">
+     <span class='ocr_line' id='line_1_3' title="bbox 1146 272 1363 311; baseline 0 -1; x_size 51.111111; x_descenders 12.777778; x_ascenders 12.777778"><span class='ocrx_word' id='word_1_3' title='bbox 1146 272 1170 310; x_wconf 90'>2</span> <span class='ocrx_word' id='word_1_4' title='bbox 1210 272 1235 311; x_wconf 86'>0</span> <span class='ocrx_word' id='word_1_5' title='bbox 1276 272 1292 310; x_wconf 96'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 1340 273 1363 310; x_wconf 93'>7</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1145 359 1147 407">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1145 359 1147 407">
+     <span class='ocr_line' id='line_1_4' title="bbox 1145 359 1147 407; baseline 0 0; x_size 24; x_descenders -12; x_ascenders 12"><span class='ocrx_word' id='word_1_7' title='bbox 1145 359 1147 407; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1091 112 1419 456">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 1091 112 1419 456">
+     <span class='ocr_line' id='line_1_5' title="bbox 1091 112 1419 456; baseline 0 697; x_size 142.66667; x_descenders 35.666668; x_ascenders 35.666668"><span class='ocrx_word' id='word_1_8' title='bbox 1091 112 1419 456; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1093 504 1415 579">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 1093 504 1415 579">
+     <span class='ocr_line' id='line_1_6' title="bbox 1093 504 1415 535; baseline 0 -1; x_size 41; x_descenders 10.25; x_ascenders 10.25"><span class='ocrx_word' id='word_1_9' title='bbox 1093 504 1225 535; x_wconf 85'>BUILDING</span> <span class='ocrx_word' id='word_1_10' title='bbox 1235 504 1415 535; x_wconf 81'>TOMORROW</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1154 542 1351 579; baseline -0.005 0; x_size 48; x_descenders 12; x_ascenders 12"><span class='ocrx_word' id='word_1_11' title='bbox 1154 542 1351 579; x_wconf 86'>TOGETHER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 920 608 1657 1058">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 920 608 1657 1058">
+     <span class='ocr_line' id='line_1_8' title="bbox 920 608 1657 1058; baseline 0 95; x_size 728; x_descenders 182; x_ascenders 182"><span class='ocrx_word' id='word_1_12' title='bbox 920 608 1657 1058; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

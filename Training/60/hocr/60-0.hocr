@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\60\denoise\60-0.png"; bbox 0 0 1657 2210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 454 166 1191 198">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 454 166 1191 198">
+     <span class='ocr_line' id='line_1_1' title="bbox 454 166 1191 198; baseline 0 0; x_size 43.333332; x_descenders 10.833333; x_ascenders 10.833333"><span class='ocrx_word' id='word_1_1' title='bbox 454 166 524 198; x_wconf 95'>REX</span> <span class='ocrx_word' id='word_1_2' title='bbox 539 166 839 198; x_wconf 93'>INTERNATIONAL</span> <span class='ocrx_word' id='word_1_3' title='bbox 854 166 1023 198; x_wconf 89'>HOLDING</span> <span class='ocrx_word' id='word_1_4' title='bbox 1040 166 1191 198; x_wconf 96'>LIMITED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 358 570 1326 659">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 358 570 1326 659">
+     <span class='ocr_line' id='line_1_2' title="bbox 358 570 1326 659; baseline -0.001 0; x_size 115.6; x_descenders 28.9; x_ascenders 28.9"><span class='ocrx_word' id='word_1_5' title='bbox 358 570 966 659; x_wconf 82'><em>UNLOCKING</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1001 572 1326 659; x_wconf 87'><em>VALUE</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 554 701 1104 742">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 554 701 1104 742">
+     <span class='ocr_line' id='line_1_3' title="bbox 554 701 1104 742; baseline 0 -1; x_size 52.820515; x_descenders 13.205129; x_ascenders 13.205129"><span class='ocrx_word' id='word_1_7' title='bbox 554 702 754 742; x_wconf 86'>ANNUAL</span> <span class='ocrx_word' id='word_1_8' title='bbox 775 701 966 742; x_wconf 87'>REPORT</span> <span class='ocrx_word' id='word_1_9' title='bbox 988 701 1104 742; x_wconf 73'>2017</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1345 1657 2210">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 1345 1657 2210">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1345 1657 2210; baseline 0 0; x_size 1154.6666; x_descenders 288.66666; x_ascenders 288.66666"><span class='ocrx_word' id='word_1_10' title='bbox 0 1345 1657 2210; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

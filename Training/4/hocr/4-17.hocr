@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\4\denoise\4-17.png"; bbox 0 0 1657 2158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1146 372 1317 416">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1146 372 1317 416">
+     <span class='ocr_line' id='line_1_1' title="bbox 1146 372 1317 386; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_1' title='bbox 1146 372 1232 386; x_wconf 60'>~VANLORD</span> <span class='ocrx_word' id='word_1_2' title='bbox 1239 372 1317 386; x_wconf 78'>EASTERN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1167 399 1298 416; baseline 0 0; x_size 22.666666; x_descenders 5.6666665; x_ascenders 5.6666665"><span class='ocrx_word' id='word_1_3' title='bbox 1167 399 1184 416; x_wconf 80'>1:</span> <span class='ocrx_word' id='word_1_4' title='bbox 1189 399 1207 416; x_wconf 60'>TE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1213 399 1229 416; x_wconf 54'>31?</span> <span class='ocrx_word' id='word_1_6' title='bbox 1237 400 1252 416; x_wconf 67'>E</span> <span class='ocrx_word' id='word_1_7' title='bbox 1258 399 1275 416; x_wconf 52'>5%</span> <span class='ocrx_word' id='word_1_8' title='bbox 1281 399 1298 416; x_wconf 56'>Eli</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 262 1657 1214">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 262 1657 1214">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 262 1657 1214; baseline 0 944; x_size 249.33333; x_descenders 62.333332; x_ascenders 62.333332"><span class='ocrx_word' id='word_1_9' title='bbox 0 262 1657 1214; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 739 1236 896 1355">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 739 1236 896 1355">
+     <span class='ocr_line' id='line_1_4' title="bbox 739 1236 819 1261; baseline 0 -8; x_size 30.375; x_descenders 5.625; x_ascenders 8.25"><span class='ocrx_word' id='word_1_10' title='bbox 739 1236 819 1261; x_wconf 51'>rpm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 749 1236 893 1320; baseline 0 -41; x_size 77.5; x_descenders 13; x_ascenders 21.5"><span class='ocrx_word' id='word_1_11' title='bbox 749 1273 753 1279; x_wconf 91'><em>.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 793 1236 893 1320; x_wconf 51'>gun</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 806 1317 896 1355; baseline -0.022 -27; x_size 20.5; x_descenders 4; x_ascenders 5.5"><span class='ocrx_word' id='word_1_13' title='bbox 806 1317 841 1355; x_wconf 33'>pi</span> <span class='ocrx_word' id='word_1_14' title='bbox 862 1320 896 1330; x_wconf 50'>1..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1236 1230 1962">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 1236 1230 1962">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 1236 1230 1962; baseline 0 196; x_size 1230.6666; x_descenders 307.66666; x_ascenders 307.66666"><span class='ocrx_word' id='word_1_15' title='bbox 0 1236 1230 1962; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1568 1843 1581 2042">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 1568 1843 1581 2042">
+     <span class='ocr_line' id='line_1_8' title="bbox 1568 1843 1581 2042; textangle 90; x_size 17.333334; x_descenders 4.3333335; x_ascenders 4.3333335"><span class='ocrx_word' id='word_1_16' title='bbox 1568 1967 1581 2042; x_wconf 80'>ANNUAL</span> <span class='ocrx_word' id='word_1_17' title='bbox 1568 1889 1581 1960; x_wconf 76'>REPORT</span> <span class='ocrx_word' id='word_1_18' title='bbox 1568 1843 1581 1882; x_wconf 80'>2017</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\62\denoise\62-114.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1448 2003 1493 2113">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1448 2003 1493 2113">
+     <span class='ocr_line' id='line_1_1' title="bbox 1481 2003 1493 2113; textangle 270; x_size 14.146341; x_descenders 2.1463416; x_ascenders 4"><span class='ocrx_word' id='word_1_1' title='bbox 1481 2003 1493 2060; x_wconf 39'>176691393</span> <span class='ocrx_word' id='word_1_2' title='bbox 1481 2066 1493 2083; x_wconf 51'>““3</span> <span class='ocrx_word' id='word_1_3' title='bbox 1481 2097 1493 2113; x_wconf 55'>Fa</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1448 2004 1473 2112; textangle 270; x_size 36.25; x_descenders 5.5; x_ascenders 10.25"><span class='ocrx_word' id='word_1_4' title='bbox 1448 2004 1473 2112; x_wconf 74'>BBJD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 1165 1190 1249">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 464 1165 1190 1249">
+     <span class='ocr_line' id='line_1_3' title="bbox 464 1165 1190 1249; textangle 270; x_size 110.55556; x_descenders 27.638889; x_ascenders 27.638889"><span class='ocrx_word' id='word_1_5' title='bbox 464 1165 1190 1249; x_wconf 45'>ramﬁgmbghﬁu</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

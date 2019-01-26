@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\36\denoise\36-16.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 594 84 1061 105">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 594 84 1061 105">
+     <span class='ocr_line' id='line_1_1' title="bbox 594 84 1061 105; baseline 0 0; x_size 28.666666; x_descenders 7.1666665; x_ascenders 7.1666665"><span class='ocrx_word' id='word_1_1' title='bbox 594 84 685 105; x_wconf 86'>LYXOR</span> <span class='ocrx_word' id='word_1_2' title='bbox 696 84 761 105; x_wconf 89'>MSCI</span> <span class='ocrx_word' id='word_1_3' title='bbox 773 84 909 105; x_wconf 86'>MALAYSIA</span> <span class='ocrx_word' id='word_1_4' title='bbox 920 84 1000 105; x_wconf 89'>UCITS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1011 84 1061 105; x_wconf 97'><em>ETF</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 114 1500 115">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 153 114 1500 115">
+     <span class='ocr_line' id='line_1_2' title="bbox 153 114 1500 115; baseline 0 0; x_size 0.5; x_descenders -0.25; x_ascenders 0.25"><span class='ocrx_word' id='word_1_6' title='bbox 153 114 1500 115; x_wconf 95'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 158 935 436 1028">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 158 935 436 1028">
+     <span class='ocr_line' id='line_1_3' title="bbox 158 935 370 971; baseline 0 -1; x_size 47.555557; x_descenders 11.888889; x_ascenders 11.888889"><span class='ocrx_word' id='word_1_7' title='bbox 158 935 370 971; x_wconf 93'>ANNUAL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 158 992 436 1028; baseline 0 0; x_size 47.555557; x_descenders 11.888889; x_ascenders 11.888889"><span class='ocrx_word' id='word_1_8' title='bbox 158 992 436 1028; x_wconf 90'>ACCOUNTS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 153 2230 1500 2232">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 153 2230 1500 2232">
+     <span class='ocr_line' id='line_1_5' title="bbox 153 2230 1500 2232; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5"><span class='ocrx_word' id='word_1_9' title='bbox 153 2230 1500 2232; x_wconf 95'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 159 2238 1499 2260">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 159 2238 1499 2260">
+     <span class='ocr_line' id='line_1_6' title="bbox 159 2238 1499 2260; baseline -0.001 -4; x_size 22; x_descenders 5; x_ascenders 4"><span class='ocrx_word' id='word_1_10' title='bbox 159 2239 232 2256; x_wconf 82'><em>935859</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 740 2239 763 2255; x_wconf 88'><em>17</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1004 2239 1074 2256; x_wconf 81'><em>Annual</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1080 2240 1139 2260; x_wconf 72'><em>report</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1145 2248 1157 2250; x_wconf 98'>—</span> <span class='ocrx_word' id='word_1_15' title='bbox 1163 2239 1221 2256; x_wconf 82'><em>Fiscal</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1226 2243 1271 2260; x_wconf 81'><em>year</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1277 2238 1343 2260; x_wconf 81'><em>ending</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1350 2243 1380 2256; x_wconf 81'><em>on:</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1386 2239 1499 2256; x_wconf 85'><em>28.02.2017</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

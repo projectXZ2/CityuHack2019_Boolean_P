@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\61\denoise\61-0.png"; bbox 0 0 1657 1150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 938 109 1216 150">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 938 109 1216 150">
+     <span class='ocr_line' id='line_1_1' title="bbox 938 109 1216 150; baseline -0.004 0; x_size 52.333332; x_descenders 13.083333; x_ascenders 13.083333"><span class='ocrx_word' id='word_1_1' title='bbox 938 109 1216 150; x_wconf 82'>NERA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 943 158 1224 169">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 943 158 1224 169">
+     <span class='ocr_line' id='line_1_2' title="bbox 943 158 1224 169; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_2' title='bbox 943 158 987 169; x_wconf 76'>NEHA</span> <span class='ocrx_word' id='word_1_3' title='bbox 995 158 1186 169; x_wconf 77'>TELECOMMUNICATIONS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1196 158 1224 169; x_wconf 87'>LTD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1332 444 1533 540">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1332 444 1533 540">
+     <span class='ocr_line' id='line_1_3' title="bbox 1336 444 1529 469; baseline 0 -1; x_size 32.599998; x_descenders 8.1499996; x_ascenders 8.1499996"><span class='ocrx_word' id='word_1_5' title='bbox 1336 444 1379 468; x_wconf 94'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 1384 444 1529 469; x_wconf 82'><em>SUCCESS</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1332 479 1533 504; baseline -0.005 0; x_size 32.599998; x_descenders 8.1499996; x_ascenders 8.1499996"><span class='ocrx_word' id='word_1_7' title='bbox 1332 479 1533 504; x_wconf 88'><em>CONNECTING</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1345 515 1521 540; baseline 0 -1; x_size 32.599998; x_descenders 8.1499996; x_ascenders 8.1499996"><span class='ocrx_word' id='word_1_8' title='bbox 1345 515 1404 539; x_wconf 88'>THE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1412 515 1521 540; x_wconf 72'><em>WORLD</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 840 181 1598 1122">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 840 181 1598 1122">
+     <span class='ocr_line' id='line_1_6' title="bbox 840 181 1598 1122; baseline 0 28; x_size 1293.3334; x_descenders 323.33334; x_ascenders 323.33334"><span class='ocrx_word' id='word_1_10' title='bbox 840 181 1598 1122; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\65\denoise\65-107.png"; bbox 0 0 1657 1155; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 345 517 501 557">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 345 517 501 557">
+     <span class='ocr_line' id='line_1_1' title="bbox 345 517 501 557; baseline 0 -11; x_size 48.25; x_descenders 11.5; x_ascenders 12.25"><span class='ocrx_word' id='word_1_1' title='bbox 345 517 501 557; x_wconf 64'>SCnergy</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 302 585 545 613">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 302 585 545 613">
+     <span class='ocr_line' id='line_1_2' title="bbox 302 585 545 597; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_2' title='bbox 302 585 322 595; x_wconf 71'>150</span> <span class='ocrx_word' id='word_1_3' title='bbox 326 585 354 595; x_wconf 76'>Cacll</span> <span class='ocrx_word' id='word_1_4' title='bbox 359 585 394 595; x_wconf 68'>sum</span> <span class='ocrx_word' id='word_1_5' title='bbox 398 585 435 595; x_wconf 61'><em>nos-m</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 441 585 498 597; x_wconf 73'>Singspove</span> <span class='ocrx_word' id='word_1_7' title='bbox 503 585 545 595; x_wconf 65'>0595A:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 310 603 536 613; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_8' title='bbox 310 603 326 613; x_wconf 77'>Tel</span> <span class='ocrx_word' id='word_1_9' title='bbox 331 603 352 613; x_wconf 73'>(65)</span> <span class='ocrx_word' id='word_1_10' title='bbox 357 603 384 613; x_wconf 72'>5232</span> <span class='ocrx_word' id='word_1_11' title='bbox 389 603 418 613; x_wconf 73'>8598</span> <span class='ocrx_word' id='word_1_12' title='bbox 427 603 503 613; x_wconf 70'>Faxl55)5132</span> <span class='ocrx_word' id='word_1_13' title='bbox 508 603 536 613; x_wconf 70'>sass</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 360 629 487 641">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 360 629 487 641">
+     <span class='ocr_line' id='line_1_4' title="bbox 360 629 487 641; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5"><span class='ocrx_word' id='word_1_14' title='bbox 360 629 441 641; x_wconf 67'>www.acnergy</span> <span class='ocrx_word' id='word_1_15' title='bbox 445 631 487 641; x_wconf 69'>com.ag</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\24\denoise\24-54.png"; bbox 0 0 1657 2188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 136 154 965 415">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 136 154 965 415">
+     <span class='ocr_line' id='line_1_1' title="bbox 138 154 822 222; baseline 0 -1; x_size 89.885056; x_descenders 22.471264; x_ascenders 22.471264"><span class='ocrx_word' id='word_1_1' title='bbox 138 154 531 222; x_wconf 81'>DIRECTORS’</span> <span class='ocrx_word' id='word_1_2' title='bbox 562 154 822 222; x_wconf 82'>REPORT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 136 250 716 319; baseline -0.002 0; x_size 89.885056; x_descenders 22.471264; x_ascenders 22.471264"><span class='ocrx_word' id='word_1_3' title='bbox 136 250 178 319; x_wconf 87'><em>&amp;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 207 250 716 319; x_wconf 81'>CONSOLIDATED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 138 346 965 415; baseline 0 -1; x_size 89.885056; x_descenders 22.471264; x_ascenders 22.471264"><span class='ocrx_word' id='word_1_5' title='bbox 138 347 499 415; x_wconf 81'>FINANCIAL</span> <span class='ocrx_word' id='word_1_6' title='bbox 527 346 965 415; x_wconf 87'>STATEMENTS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 128 658 1560 2090">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 128 658 1560 2090">
+     <span class='ocr_line' id='line_1_4' title="bbox 128 658 1560 2090; baseline 0 0; x_size 716; x_descenders -358; x_ascenders 358"><span class='ocrx_word' id='word_1_7' title='bbox 128 658 1560 2090; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\2\denoise\2-61.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 105 2238 678 2260">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 105 2238 678 2260">
+     <span class='ocr_line' id='line_1_1' title="bbox 105 2238 678 2260; baseline -0.002 -3; x_size 24.310345; x_descenders 5.3103447; x_ascenders 5"><span class='ocrx_word' id='word_1_1' title='bbox 105 2238 187 2260; x_wconf 88'>Looking</span> <span class='ocrx_word' id='word_1_2' title='bbox 196 2239 231 2257; x_wconf 89'>out</span> <span class='ocrx_word' id='word_1_3' title='bbox 239 2239 260 2257; x_wconf 81'>to</span> <span class='ocrx_word' id='word_1_4' title='bbox 268 2243 302 2257; x_wconf 86'>sea</span> <span class='ocrx_word' id='word_1_5' title='bbox 310 2238 359 2257; x_wconf 87'>from</span> <span class='ocrx_word' id='word_1_6' title='bbox 368 2238 401 2257; x_wconf 84'>the</span> <span class='ocrx_word' id='word_1_7' title='bbox 411 2238 464 2257; x_wconf 78'>Pluto</span> <span class='ocrx_word' id='word_1_8' title='bbox 473 2238 517 2257; x_wconf 87'>LNG</span> <span class='ocrx_word' id='word_1_9' title='bbox 526 2238 604 2260; x_wconf 87'>dolphin</span> <span class='ocrx_word' id='word_1_10' title='bbox 613 2238 678 2257; x_wconf 90'>wharf.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 805 1654 2339">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 805 1654 2339">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 805 1654 2339; baseline 0 0; x_size 767; x_descenders -383.5; x_ascenders 383.5"><span class='ocrx_word' id='word_1_11' title='bbox 0 805 1654 2339; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

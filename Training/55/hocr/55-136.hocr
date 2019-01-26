@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\55\denoise\55-136.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 917 65 1456 90">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 917 65 1456 90">
+     <span class='ocr_line' id='line_1_1' title="bbox 917 65 1456 90; baseline 0.002 -6; x_size 24; x_descenders 5; x_ascenders 6"><span class='ocrx_word' id='word_1_1' title='bbox 917 66 942 84; x_wconf 92'>PT</span> <span class='ocrx_word' id='word_1_2' title='bbox 951 65 1023 85; x_wconf 90'>Berlian</span> <span class='ocrx_word' id='word_1_3' title='bbox 1033 66 1074 90; x_wconf 89'>Laju</span> <span class='ocrx_word' id='word_1_4' title='bbox 1083 65 1157 85; x_wconf 91'>Tanker</span> <span class='ocrx_word' id='word_1_5' title='bbox 1164 65 1204 85; x_wconf 90'>Tbk</span> <span class='ocrx_word' id='word_1_6' title='bbox 1220 65 1222 90; x_wconf 99'><em>|</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1237 65 1313 85; x_wconf 88'>Annual</span> <span class='ocrx_word' id='word_1_8' title='bbox 1324 66 1396 90; x_wconf 85'>Report</span> <span class='ocrx_word' id='word_1_9' title='bbox 1404 66 1456 85; x_wconf 91'>2017</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 498 1134 1157 1197">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 498 1134 1157 1197">
+     <span class='ocr_line' id='line_1_2' title="bbox 521 1134 1134 1162; baseline 0.002 -6; x_size 30.136055; x_descenders 7.5340137; x_ascenders 7.5340137"><span class='ocrx_word' id='word_1_10' title='bbox 521 1134 685 1157; x_wconf 91'>HALAMAN</span> <span class='ocrx_word' id='word_1_11' title='bbox 695 1134 740 1157; x_wconf 93'>INI</span> <span class='ocrx_word' id='word_1_12' title='bbox 750 1134 886 1162; x_wconf 82'>SENGAIA</span> <span class='ocrx_word' id='word_1_13' title='bbox 895 1134 1134 1157; x_wconf 89'>DIKOSONGKAN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 498 1174 1157 1197; baseline 0 -1; x_size 30.136055; x_descenders 7.5340137; x_ascenders 7.5340137"><span class='ocrx_word' id='word_1_14' title='bbox 498 1174 569 1197; x_wconf 90'>THIS</span> <span class='ocrx_word' id='word_1_15' title='bbox 579 1174 658 1197; x_wconf 89'>PAGE</span> <span class='ocrx_word' id='word_1_16' title='bbox 668 1174 692 1197; x_wconf 91'>IS</span> <span class='ocrx_word' id='word_1_17' title='bbox 702 1174 958 1197; x_wconf 90'>INTENTIONALLY</span> <span class='ocrx_word' id='word_1_18' title='bbox 967 1174 1041 1196; x_wconf 92'>LEFT</span> <span class='ocrx_word' id='word_1_19' title='bbox 1050 1174 1157 1197; x_wconf 91'>BLANK</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

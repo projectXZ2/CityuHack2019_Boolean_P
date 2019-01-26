@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\24\denoise\24-101.png"; bbox 0 0 1657 2188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 104 63 504 79">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 104 63 504 79">
+     <span class='ocr_line' id='line_1_1' title="bbox 104 63 504 79; baseline 0 0; x_size 20.818182; x_descenders 5.2045455; x_ascenders 5.2045455"><span class='ocrx_word' id='word_1_1' title='bbox 104 63 241 79; x_wconf 86'>KRISENERGY</span> <span class='ocrx_word' id='word_1_2' title='bbox 260 64 262 79; x_wconf 99'><em>|</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 281 63 323 79; x_wconf 81'>2017</span> <span class='ocrx_word' id='word_1_4' title='bbox 332 64 415 79; x_wconf 75'>ANNUAL</span> <span class='ocrx_word' id='word_1_5' title='bbox 425 63 504 79; x_wconf 81'>REPORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 106 154 923 430">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 106 154 923 430">
+     <span class='ocr_line' id='line_1_2' title="bbox 106 154 923 229; baseline -0.002 -6; x_size 90.333336; x_descenders 22.583334; x_ascenders 22.583334"><span class='ocrx_word' id='word_1_6' title='bbox 106 154 441 223; x_wconf 89'>SUMMARY</span> <span class='ocrx_word' id='word_1_7' title='bbox 468 154 546 223; x_wconf 83'>OF</span> <span class='ocrx_word' id='word_1_8' title='bbox 575 154 923 229; x_wconf 74'>QUALIFIED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 108 250 723 319; baseline 0 -1; x_size 90.333336; x_descenders 22.583334; x_ascenders 22.583334"><span class='ocrx_word' id='word_1_9' title='bbox 108 250 433 319; x_wconf 84'>PERSUN’S</span> <span class='ocrx_word' id='word_1_10' title='bbox 463 250 723 319; x_wconf 84'>REPORT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 107 346 312 430; baseline 0 -16; x_size 90.333336; x_descenders 22.583334; x_ascenders 22.583334"><span class='ocrx_word' id='word_1_11' title='bbox 107 346 312 430; x_wconf 83'>(NSAI)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 71 658 1557 2090">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 71 658 1557 2090">
+     <span class='ocr_line' id='line_1_5' title="bbox 71 658 1557 2090; baseline 0 0; x_size 716; x_descenders -358; x_ascenders 358"><span class='ocrx_word' id='word_1_12' title='bbox 71 658 1557 2090; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

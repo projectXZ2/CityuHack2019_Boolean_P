@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.05.02' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "d:\annual report\frames\6\denoise\6-33.png"; bbox 0 0 1654 2339; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 147 375 182">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 199 147 375 182">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 147 375 182; baseline 0 -8; x_size 52; x_descenders 9; x_ascenders 14"><span class='ocrx_word' id='word_1_1' title='bbox 199 147 375 182; x_wconf 76'>oooooooooo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 209 339 1161 509">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 209 339 1161 509">
+     <span class='ocr_line' id='line_1_2' title="bbox 209 339 1161 509; baseline 0 -40; x_size 165; x_descenders 40; x_ascenders 26"><span class='ocrx_word' id='word_1_2' title='bbox 209 344 433 471; x_wconf 90'>Re-</span> <span class='ocrx_word' id='word_1_3' title='bbox 389 339 1161 509; x_wconf 88'>-imagining</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 203 492 1496 1016">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 203 492 1496 1016">
+     <span class='ocr_line' id='line_1_3' title="bbox 203 492 1496 1016; baseline 0.001 -120; x_size 524; x_descenders 114; x_ascenders 108"><span class='ocrx_word' id='word_1_4' title='bbox 203 492 1496 1016; x_wconf 82'>global</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 429 900 1512 1133">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 429 900 1512 1133">
+     <span class='ocr_line' id='line_1_4' title="bbox 429 900 1512 1133; baseline 0 -50; x_size 234; x_descenders 53; x_ascenders 44"><span class='ocrx_word' id='word_1_5' title='bbox 429 900 1512 1133; x_wconf 84'>agriculture</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 320 1156 1336 2274">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 320 1156 1336 2274">
+     <span class='ocr_line' id='line_1_5' title="bbox 320 1156 1336 2274; baseline 0 0; x_size 559; x_descenders -279.5; x_ascenders 279.5"><span class='ocrx_word' id='word_1_6' title='bbox 320 1156 1336 2274; x_wconf 95'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
