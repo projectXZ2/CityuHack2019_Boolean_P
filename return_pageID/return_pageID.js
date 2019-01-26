@@ -7,12 +7,10 @@ function getJSON(path){
     xmlhttp.onreadystatechange = function() {
       if (this.readyState == 4 && this.status == 200) {
         var myObj = JSON.parse(this.responseText);
-        // console.log(myObj);
         var strJSON = JSON.stringify(myObj);
         document.getElementById("json").innerHTML = strJSON;
         str = strJSON;
         jsonStr = myObj;
-        // console.log(myObj);
       }
     };
     xmlhttp.open("GET", path, true);
@@ -54,3 +52,7 @@ function search(){
     }
     return pageIDarr;
 }
+
+
+var testing = getJSON();
+console.log("testing: " + getJSON());
