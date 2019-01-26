@@ -1,4 +1,4 @@
-var path = "https://api.myjson.com/bins/ij0xc";
+var path = "https://raw.githubusercontent.com/projectXZ2/CityuHack2019_Boolean_P/master/Training/6/6_tagged.json";
 var str = "";
 getJSON(path);
 
@@ -22,6 +22,7 @@ function getJSON(path){
 function search(){
     var type = document.getElementById("textInput").value;
     console.log("type: " + type);
+    var pageIDarr = [];
 
     // var jsonStr = document.getElementById("json").innerHTML;
     var jsonStr = str;
@@ -37,9 +38,19 @@ function search(){
                 var entityType = tag.entityType;
                 if(entityType == type){
                     console.log(pages[i].pageId);
+                    var duplicate = false;
+                    for(k=0; k<pageIDarr.length; k++){
+                        if(pageIDarr[k] == pages[i].pageId && pageIDarr.length>0){
+                            duplicate = true;
+                        }
+                    }
+                    if(duplicate == false){
+                        pageIDarr.push(pages[i].pageId);
+                    }
+                    console.log("array: " + pageIDarr);
                 }
             }
         }
     }
-
+    return pageIDarr;
 }
