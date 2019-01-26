@@ -1,0 +1,34 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <script>
+
+    var xhttp = new XMLHttpRequest();
+    alert("hello");
+    var txt = "test.hocr";
+    xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+    }
+    };
+    xhttp.open("GET",txt,true);
+    xhttp.send();
+    function myFunction(xml){
+      var xmlDoc = xml.responseXML;
+      for(var i =0;i<10;i++){
+        alert(xmlDoc.getElementsByClassName("ocrx_word")[i].childNodes[0].nodeValue);
+      }
+    }
+    alert("me");
+
+  </script>
+  <body>
+
+  </body>
+</html>
